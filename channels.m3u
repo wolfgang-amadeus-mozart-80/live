@@ -1,6 +1,3 @@
-const M3U_CONTENT = `#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX 02
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
-`;
-
-export default {
